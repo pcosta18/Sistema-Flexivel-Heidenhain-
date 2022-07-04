@@ -9,4 +9,4 @@ Permite o envio de um ficheiro .H ou .I (linguagem Heidenhain ou ISO, respetviva
 
 ESP82866:
 
-Dentro desta pasta contêm tanto os ficheiros utilizados para implementação de uma página Web. Nesta existe um botão que ao ser pressionado indica ao ESP para comandar a Heidenhain a executar o programa já pré-selecionado.
+Dentro desta pasta contêm tanto os ficheiros utilizados para implementação de uma página Web. Nesta existe um botão que ao ser pressionado indica ao ESP para comandar a Heidenhain a executar o programa já pré-selecionado, também, através da implementação de comandos do protocolo LSV2.

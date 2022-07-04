@@ -1,0 +1,80 @@
+C:\Users\pedro\source\repos\VB_232\VB_232\bin\Debug\VB_232.exe.config
+C:\Users\pedro\source\repos\VB_232\VB_232\bin\Debug\VB_232.exe
+C:\Users\pedro\source\repos\VB_232\VB_232\bin\Debug\VB_232.pdb
+C:\Users\pedro\source\repos\VB_232\VB_232\bin\Debug\VB_232.xml
+C:\Users\pedro\source\repos\VB_232\VB_232\bin\Debug\System.IO.Ports.dll
+C:\Users\pedro\source\repos\VB_232\VB_232\bin\Debug\System.IO.Ports.xml
+C:\Users\pedro\source\repos\VB_232\VB_232\obj\Debug\VB_232.vbproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\VB_232\VB_232\obj\Debug\VB_232.vbproj.SuggestedBindingRedirects.cache
+C:\Users\pedro\source\repos\VB_232\VB_232\obj\Debug\VB_232.Form1.resources
+C:\Users\pedro\source\repos\VB_232\VB_232\obj\Debug\VB_232.Resources.resources
+C:\Users\pedro\source\repos\VB_232\VB_232\obj\Debug\VB_232.vbproj.GenerateResource.cache
+C:\Users\pedro\source\repos\VB_232\VB_232\obj\Debug\VB_232.vbproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\VB_232\VB_232\obj\Debug\VB_232.vbproj.CopyComplete
+C:\Users\pedro\source\repos\VB_232\VB_232\obj\Debug\VB_232.exe
+C:\Users\pedro\source\repos\VB_232\VB_232\obj\Debug\VB_232.xml
+C:\Users\pedro\source\repos\VB_232\VB_232\obj\Debug\VB_232.pdb
+C:\Users\pedro\source\repos\VB_232\VB_232\obj\Debug\VB_232.Form2.resources
+C:\Users\pedro\source\repos\VB_232\VB_232\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\pedro\source\repos\VB_232\VB_232\bin\Debug\Google.Protobuf.dll
+C:\Users\pedro\source\repos\VB_232\VB_232\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\pedro\source\repos\VB_232\VB_232\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\pedro\source\repos\VB_232\VB_232\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\pedro\source\repos\VB_232\VB_232\bin\Debug\MySql.Data.dll
+C:\Users\pedro\source\repos\VB_232\VB_232\bin\Debug\System.Buffers.dll
+C:\Users\pedro\source\repos\VB_232\VB_232\bin\Debug\System.Memory.dll
+C:\Users\pedro\source\repos\VB_232\VB_232\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\pedro\source\repos\VB_232\VB_232\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\pedro\source\repos\VB_232\VB_232\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\pedro\source\repos\VB_232\VB_232\bin\Debug\ZstdNet.dll
+C:\Users\pedro\source\repos\VB_232\VB_232\bin\Debug\Google.Protobuf.pdb
+C:\Users\pedro\source\repos\VB_232\VB_232\bin\Debug\Google.Protobuf.xml
+C:\Users\pedro\source\repos\VB_232\VB_232\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\pedro\source\repos\VB_232\VB_232\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\pedro\source\repos\VB_232\VB_232\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\pedro\source\repos\VB_232\VB_232\bin\Debug\MySql.Data.xml
+C:\Users\pedro\source\repos\VB_232\VB_232\bin\Debug\System.Buffers.xml
+C:\Users\pedro\source\repos\VB_232\VB_232\bin\Debug\System.Memory.xml
+C:\Users\pedro\source\repos\VB_232\VB_232\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\pedro\source\repos\VB_232\VB_232\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\pedro\source\repos\VB_232\VB_232\obj\Debug\VB_232.Tratamento_Ficheiros.resources
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\VB_232\VB_232\bin\Debug\VB_232.exe.config
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\VB_232\VB_232\bin\Debug\VB_232.exe
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\VB_232\VB_232\bin\Debug\VB_232.pdb
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\VB_232\VB_232\bin\Debug\VB_232.xml
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\VB_232\VB_232\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\VB_232\VB_232\bin\Debug\Google.Protobuf.dll
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\VB_232\VB_232\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\VB_232\VB_232\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\VB_232\VB_232\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\VB_232\VB_232\bin\Debug\MySql.Data.dll
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\VB_232\VB_232\bin\Debug\System.Buffers.dll
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\VB_232\VB_232\bin\Debug\System.IO.Ports.dll
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\VB_232\VB_232\bin\Debug\System.Memory.dll
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\VB_232\VB_232\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\VB_232\VB_232\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\VB_232\VB_232\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\VB_232\VB_232\bin\Debug\ZstdNet.dll
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\VB_232\VB_232\bin\Debug\Google.Protobuf.pdb
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\VB_232\VB_232\bin\Debug\Google.Protobuf.xml
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\VB_232\VB_232\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\VB_232\VB_232\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\VB_232\VB_232\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\VB_232\VB_232\bin\Debug\MySql.Data.xml
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\VB_232\VB_232\bin\Debug\System.Buffers.xml
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\VB_232\VB_232\bin\Debug\System.IO.Ports.xml
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\VB_232\VB_232\bin\Debug\System.Memory.xml
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\VB_232\VB_232\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\VB_232\VB_232\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\VB_232\VB_232\obj\Debug\VB_232.vbproj.AssemblyReference.cache
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\VB_232\VB_232\obj\Debug\VB_232.vbproj.SuggestedBindingRedirects.cache
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\VB_232\VB_232\obj\Debug\VB_232.Form1.resources
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\VB_232\VB_232\obj\Debug\VB_232.Form2.resources
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\VB_232\VB_232\obj\Debug\VB_232.Resources.resources
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\VB_232\VB_232\obj\Debug\VB_232.Tratamento_Ficheiros.resources
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\VB_232\VB_232\obj\Debug\VB_232.vbproj.GenerateResource.cache
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\VB_232\VB_232\obj\Debug\VB_232.vbproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\VB_232\VB_232\obj\Debug\VB_232.vbproj.CopyComplete
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\VB_232\VB_232\obj\Debug\VB_232.exe
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\VB_232\VB_232\obj\Debug\VB_232.xml
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\VB_232\VB_232\obj\Debug\VB_232.pdb
